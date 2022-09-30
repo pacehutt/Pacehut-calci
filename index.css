@@ -124,7 +124,8 @@ nav a {
 }
 
 li {
-  list-style: none;
+  list-style:none;
+  text-decoration: none;
 }
 .nav_elements {
   width: 100px;
